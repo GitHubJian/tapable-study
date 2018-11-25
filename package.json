@@ -1,0 +1,17 @@
+{
+  "name": "tapable-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "tapable": "^1.1.0",
+    "webpack": "^4.26.0"
+  }
+}
